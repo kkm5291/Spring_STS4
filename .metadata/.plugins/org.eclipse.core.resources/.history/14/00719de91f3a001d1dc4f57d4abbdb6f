@@ -1,0 +1,12 @@
+package com.tuyano.springboot;
+
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.thymeleaf.context.*;
+import org.thymeleaf.dialect.AbstractDialect;
+import org.thymeleaf.dialect.*;
+public class MyTLDialect {
+	
+}

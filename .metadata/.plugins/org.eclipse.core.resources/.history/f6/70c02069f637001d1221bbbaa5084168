@@ -1,0 +1,19 @@
+package com.tuyano.springboot;
+
+import java.util.List;
+
+public class MsgDataDaoImpl implements MsgDataDao {
+
+	@Override
+	public List<MsgData> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public MsgData findById(long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

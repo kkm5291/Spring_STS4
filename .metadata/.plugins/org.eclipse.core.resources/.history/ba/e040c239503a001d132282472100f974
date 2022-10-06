@@ -1,0 +1,10 @@
+package com.tuyano.springboot.repositories;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.tuyano.springboot.MyDataMongo;
+
+public interface MyDataMongoRepository 
+	extends MongoRepository<MyDataMongo, Long> {
+	
+}

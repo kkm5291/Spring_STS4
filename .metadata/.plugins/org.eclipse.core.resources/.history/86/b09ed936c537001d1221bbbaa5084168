@@ -1,0 +1,13 @@
+package com.tuyano.springboot;
+
+import java.util.List;
+
+public class MyDataDaoImpl implements MyDataDao<MyData> {
+
+	@Override
+	public List<MyData> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

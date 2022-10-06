@@ -1,0 +1,6 @@
+package com.tuyano.springboot;
+import javax.validation.ConstraintValidator;
+
+public class PhoneValidator implements ConstraintValidator<Phone, String> {
+
+}

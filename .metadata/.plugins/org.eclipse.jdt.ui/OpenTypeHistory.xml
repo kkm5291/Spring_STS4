@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=MyBootApp/C:\/Users\/kkm23\/.m2\/repository\/jakarta\/validation\/jakarta.validation-api\/2.0.2\/jakarta.validation-api-2.0.2.jar=/maven.pomderived=/true=/=/maven.groupId=/jakarta.validation=/=/maven.artifactId=/jakarta.validation-api=/=/maven.version=/2.0.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;javax.validation(ConstraintValidator.class[ConstraintValidator" modifiers="1537" timestamp="1663391557138"/>
+    <typeInfo handle="=MyBootApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuyano.springboot{MyDataDao.java[MyDataDao" modifiers="513" timestamp="1663562182496"/>
+    <typeInfo handle="=MyBootApp/C:\/Users\/kkm23\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.2\/spring-data-jpa-2.7.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1663222816076"/>
+    <typeInfo handle="=MyBootApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuyano.springboot{MsgDataDao.java[MsgDataDao" modifiers="513" timestamp="1663576427970"/>
+</typeInfoHistroy>
